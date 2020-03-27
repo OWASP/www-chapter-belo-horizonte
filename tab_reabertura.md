@@ -18,4 +18,4 @@ A primeira palestra foi conduzida pela liderança do capítulo e tratou sobre a 
 
 A segunda palestra ocorreu com a participação da convidada Samantha Morais Nunes, onde foram feitas relações sobre LGPD (Lei Geral de Proteção de Dados) com os aspectos de segurança abordados no OWASP Top 10.
 
-## Fotos do evento: <https://www.meetup.com/OWASP-Belo-Horizonte-Chapter/photos/all_photos/?photoAlbumId=30361096>
+#### Fotos do evento: <https://www.meetup.com/OWASP-Belo-Horizonte-Chapter/photos/all_photos/?photoAlbumId=30361096>

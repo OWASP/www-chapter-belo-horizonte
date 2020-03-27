@@ -1,6 +1,6 @@
 ---
 
-title: Colaborações
+title: Colaboracoes
 displaytext: Colaborações
 layout: null
 order: 3

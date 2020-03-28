@@ -10,4 +10,10 @@ tags: chapter-bh
 
 ## Agenda de Eventos
 
-Fique ligado na agenda de eventos OWASP registrando-se na página do capítulo no Meetup: <https://www.meetup.com/pt-BR/OWASP-Belo-Horizonte-Chapter/>
+O OWASP-BH divulga sua agenda de eventos oficiais por meio do Meetup!
+
+Fique ligado na agenda de eventos OWASP registrando-se na página do capítulo: <https://www.meetup.com/pt-BR/OWASP-Belo-Horizonte-Chapter/>
+
+## Recepção de eventos OWASP
+
+O capítulo Belo Horizonte busca constantemente espaços acadêmicos e empresas que queiram receber eventos, faça contato com a liderança caso tenha disponibilidade para mais informações.

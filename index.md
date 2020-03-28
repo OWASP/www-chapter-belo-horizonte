@@ -10,7 +10,7 @@ region: South America
 ## Seja bem-vindo!
 Seja bem-vindo a página da OWASP Chapter [Belo Horizonte](https://pt.wikipedia.org/wiki/Belo_Horizonte)!
 
-![Belo Horizonte Chapter](assets/images/img_principal.jpeg")
+<img src="assets/images/img_principal.jpeg" />
 
 A OWASP Belo Horizonte é um dos capítulos da OWASP entre os mais de 200
 em todo o mundo. Entre os objetivos do capítulo estão:

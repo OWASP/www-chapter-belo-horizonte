@@ -4,6 +4,9 @@ title: OWASP Belo Horizonte
 tags: chapter-bh
 level: 0
 region: South America
+meetup-group: OWASP-Belo-Horizonte-Chapter
+country: Brazil
+postal-code: 
 
 ---
 

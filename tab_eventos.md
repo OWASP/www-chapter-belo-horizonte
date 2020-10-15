@@ -10,6 +10,16 @@ tags: chapter-bh
 
 ## Eventos 2020
 
+### 3º Encontro OWASP-BH - Apresentação do API Security Top 10 em português
+
+As APIs são parte importante de praticamente todo projeto de software atualmente. Ciente do cenário, a liderança do capítulo Belo Horizonte do OWASP trabalhou na tradução do projeto "API Security - Top 10". A tradução foi apresentada em primeira mão no evento "OWASP Latam @Home" e vamos repeti-la com exclusividade aos membros do capítulo BH.
+
+Neste evento online, vamos reapresentar como o trabalho de tradução aconteceu, além de falar de cada aspecto identificado na documentação como riscos de segurança de API.
+
+Esperamos ainda sugestões para futuros eventos, bem como a ampliação do engajamento da comunidade mineira nos projetos do OWASP.
+
+#### Evento On-line
+
 ### 3º Encontro OWASP-BH - A importância do OWASP Top 10 no PCI-DSS
 
 É chegada a hora do primeiro evento de 2020 do capítulo OWASP-BH. E estamos cheios de desafios neste ano novo! Vem com a gente!

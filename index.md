@@ -21,3 +21,6 @@ em todo o mundo. Entre os objetivos do capítulo estão:
 * Disseminar a missão da fundação
 * Organizar eventos junto à comunidade
 * Fomentar a troca de conhecimento e a troca de experiências
+
+### Confira os próximos eventos Meetup:
+{% include chapter_events.html group=page.meetup-group %}

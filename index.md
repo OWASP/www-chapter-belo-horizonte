@@ -15,6 +15,14 @@ Seja bem-vindo a página da OWASP Chapter [Belo Horizonte](https://pt.wikipedia.
 
 <img src="assets/images/img_principal.jpeg" />
 
+### Upcoming Meetings
+
+We schedule our meetings on the [Belo Horizonte Meetup Group](https://www.meetup.com/OWASP-Belo-Horizonte-Chapter/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
 A OWASP Belo Horizonte é um dos capítulos da OWASP entre os mais de 200
 em todo o mundo. Entre os objetivos do capítulo estão:
 

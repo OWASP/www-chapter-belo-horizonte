@@ -4,7 +4,7 @@ title: OWASP Belo Horizonte
 tags: chapter-bh
 level: 0
 region: South America
-meetup-group: OWASP-Belo-Horizonte-Chapter
+meetup-group: owasp-belo-horizonte-chapter
 country: Brazil
 postal-code: 
 
@@ -17,7 +17,7 @@ Seja bem-vindo a página da OWASP Chapter [Belo Horizonte](https://pt.wikipedia.
 
 ### Próximos eventos
 
-Nós utilizamos o Meetup para manter uma agenda de eventos, confira nossa página na plataforma: [Belo Horizonte Meetup Group](https://www.meetup.com/OWASP-Belo-Horizonte-Chapter/)
+Nós utilizamos o Meetup para manter uma agenda de eventos, confira nossa página na plataforma: [Belo Horizonte Meetup Group](https://www.meetup.com/owasp-belo-horizonte-chapter/)
 
 {% include chapter_events.html group=page.meetup-group %}
 

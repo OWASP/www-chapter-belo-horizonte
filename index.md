@@ -6,7 +6,6 @@ level: 0
 region: South America
 meetup-group: owasp-belo-horizonte-chapter
 country: Brazil
-postal-code: 
 
 ---
 

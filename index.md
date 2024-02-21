@@ -12,7 +12,7 @@ country: Brazil
 ## Seja bem-vindo!
 Seja bem-vindo a página da OWASP Chapter [Belo Horizonte](https://pt.wikipedia.org/wiki/Belo_Horizonte)!
 
-<img src="assets/images/img_principal.jpeg" />
+
 
 ### Próximos eventos
 

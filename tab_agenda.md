@@ -17,3 +17,7 @@ Fique ligado na agenda de eventos OWASP registrando-se na página do capítulo: 
 ## Recepção de eventos OWASP
 
 O capítulo Belo Horizonte busca constantemente espaços acadêmicos e empresas que queiram receber eventos, faça contato com a liderança caso tenha disponibilidade para mais informações.
+
+## Próximos Eventos
+---------------------
+{% include chapter_events.html group=page.meetup-group %}

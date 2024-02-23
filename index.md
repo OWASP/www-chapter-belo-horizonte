@@ -16,6 +16,7 @@ Seja bem-vindo a página da OWASP Chapter Belo Horizonte!
 <center>
 <img src="assets/images/img_principal.jpeg">
 </center>
+
 <br>
 A OWASP Belo Horizonte é um dos treze capítulos brasileiros entre os mais de duzentos e sessenta e cinco capítulos ativos ao redor do mundo. Nosso objetivo é disseminar a missão da OWASP, tornando a segurança das aplicações visível, para que pessoas e organizações possam fazer escolhas informadas sobre os riscos reais à segurança das aplicações.
 Encontros serão organizados para possibilitar o compartilhamento de conhecimentos, discussões e aprendizado sobre segurança de software. A organização também conta com diversos projetos ativos, nos quais voluntários podem se engajar para desenvolver códigos e documentos que beneficiem a comunidade global de segurança.<br>

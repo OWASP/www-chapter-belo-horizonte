@@ -14,7 +14,7 @@ Seja bem-vindo a página da OWASP Chapter Belo Horizonte!
 
 <br>
 <center>
-<img src="assets/images/img_principal.jpeg">
+<img src="assets/images/owasp-bh-full-black.png">
 </center>
 
 <br>

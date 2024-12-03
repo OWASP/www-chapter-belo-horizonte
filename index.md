@@ -61,7 +61,7 @@ A cidade dispõe de vários atrativos turísticos, como a Lagoa da Pampulha, o M
 
 ## Equipe OWASP Belo Horizonte
 
-Atualmente, o OWASP Belo Horizonte é liderado por [Matheus Banhos](https://www.linkedin.com/in/matheusbanhos/), [Julio Sacramento](https://www.linkedin.com/in/julio-sacramento/) e [Sandro Garcia](https://www.linkedin.com/in/sandro-g-0539b0168/).
+Atualmente, o OWASP Belo Horizonte é liderado por [Matheus Banhos](https://www.linkedin.com/in/matheusbanhos/), [Julio Sacramento](https://www.linkedin.com/in/julio-sacramento/) , [Sandro Garcia](https://www.linkedin.com/in/sandro-g-0539b0168/) e [Lucas Gontijo](https://www.linkedin.com/in/lucas-gontijo/).
 
 <br>
 

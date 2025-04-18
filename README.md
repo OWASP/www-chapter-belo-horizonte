@@ -59,7 +59,7 @@ Nossa equipe de liderança atual inclui:
 
 - **Email**: [owasp-bh-chapter@googlegroups.com](mailto:owasp-bh-chapter@googlegroups.com)
 - **Meetup**: [OWASP Belo Horizonte Chapter](https://www.meetup.com/owasp-belo-horizonte-chapter/)
-- **WhatsApp**: [Grupo OWASP BH](https://chat.whatsapp.com/JaX5rC6EWqkISp0SKAC2pH)
+- **WhatsApp**: [Grupo OWASP BH](https://www.form.spotform.com.br/cm9lu21cg0lc3ml0knte4odhy)
 
 ## Licença
 

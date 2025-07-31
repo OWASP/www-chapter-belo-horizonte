@@ -19,7 +19,7 @@ Abaixo estão os projetos atualmente em destaque.
 
 <p align="center">
   <a href="https://github.com/OWASP/www-chapter-belo-horizonte/tree/master/meOwna">
-    <img src="https://raw.githubusercontent.com/OWASP/www-chapter-belo-horizonte/master/assets/images/owasp-bh-full-black.png" alt="Logo OWASP Belo Horizonte" width="400"/>
+    <img src="https://raw.githubusercontent.com/OWASP/www-chapter-belo-horizonte/master/meOwna/img/logo.png" alt="Logo OWASP Belo Horizonte" width="400"/>
   </a>
 </p>
 

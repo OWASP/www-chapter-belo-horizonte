@@ -1,0 +1,17 @@
+>>>>>>>>Vulnerabilidade Encontrada<<<<<<<<<
+
+Vulnerabilidade: Hangfire Misconfiguration and Sensitive Information Disclosure 
+
+
+Hangfire Dashboard é um lugar onde você pode encontrar todas as informações sobre seus trabalhos em segundo plano. Ele é escrito como um middleware OWIN (se você não estiver familiarizado com o OWIN, não se preocupe), então você pode conectá-lo ao seu aplicativo ASP.NET, ASP.NET MVC, Nancy, ServiceStack, bem como usar o OWIN Self- Host recurso para hospedar o Dashboard dentro de aplicativos de console ou no Windows Services. 
+
+
+para hangfire dashboard, ele expõe informações confidenciais sobre seus trabalhos em segundo plano, incluindo nomes de métodos e argumentos serializados, além de oferecer a oportunidade de gerenciá-los executando diferentes ações – tentar novamente, excluir, acionar, etc., por isso é muito importante restringir o acesso ao painel.
+
+
+
+Referências:
+
+https://www.appsloveworld.com/csharp/100/337/cant-access-hangfire-dashboard
+https://docs.hangfire.io/en/latest/configuration/using-dashboard.html
+ 

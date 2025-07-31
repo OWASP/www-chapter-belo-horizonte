@@ -1,0 +1,8 @@
+
+
+security.txt é um padrão proposto para informações de segurança de sites que visa permitir que pesquisadores de segurança relatem facilmente vulnerabilidades de segurança. O padrão prescreve um arquivo de texto chamado “security.txt” em um local bem conhecido, semelhante em sintaxe ao robots.txt, mas destinado a ser legível por máquinas e humanos, para aqueles que desejam entrar em contato com o proprietário de um site sobre questões de segurança. Os arquivos security.txt foram adotados pelo Google, GitHub, LinkedIn e Facebook.
+
+Referências:
+
+https://en.wikipedia.org/wiki/Security.txt
+https://securitytxt.org/

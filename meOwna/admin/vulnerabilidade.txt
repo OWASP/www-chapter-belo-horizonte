@@ -1,0 +1,30 @@
+>>>>>>>>>>Vulnerabilidade Encontrada<<<<<<<<<<<<<<<<<
+
+Vulnerabilidade: Modo DEBUG do Django ativado
+
+O servidor web de destino divulga dados de informações do sistema na resposta HTTP.
+
+O modo de depuração permite comportamentos extras de depuração que auxiliam os desenvolvedores e também os invasores.
+
+Impacto:
+
+Um invasor pode obter informações como:
+
+-->> Versão exata do Django e Python.
+-->> Tipo de banco de dados usado, nome de usuário do banco de dados, nome do banco de dados atual.
+-->> Detalhes da configuração do projeto Django.
+-->> Caminhos de arquivos internos.
+-->> Código-fonte gerado por exceção, variáveis locais e seus valores. 
+
+Essas informações podem ajudar um invasor a obter mais informações e potencialmente a se concentrar no desenvolvimento de novos ataques ao sistema alvo.
+
+Correção:
+
+Aplique as seguintes alterações no arquivo de configurações do Django para evitar esse problema: set DEBUGopção para False.
+
+Referências:
+
+https://www.invicti.com/web-vulnerability-scanner/vulnerabilities/django-debug-mode-enabled/
+https://medium.com/@syedabuthahir/django-debug-mode-to-rce-in-microsoft-acquisition-189d27d08971
+
+

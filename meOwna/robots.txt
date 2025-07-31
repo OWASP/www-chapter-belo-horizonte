@@ -1,0 +1,6 @@
+O arquivo robots.txt é usado para fornecer instruções aos robôs da web, como rastreadores de mecanismos de pesquisa, sobre locais dentro do site que os robôs têm ou não permissão para rastrear e indexar.
+
+A presença do robots.txt por si só não apresenta qualquer tipo de vulnerabilidade de segurança. No entanto, é frequentemente utilizado para identificar áreas restritas ou privadas do conteúdo de um site. As informações contidas no arquivo podem, portanto, ajudar um invasor a mapear o conteúdo do site, especialmente se alguns dos locais identificados não tiverem links de outras partes do site. Se o aplicativo depende do robots.txt para proteger o acesso a essas áreas e não impõe o controle de acesso adequado sobre elas, isso representa uma vulnerabilidade grave. 
+
+
+Referência: https://portswigger.net/kb/issues/00600600_robots-txt-file

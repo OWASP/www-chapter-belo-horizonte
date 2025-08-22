@@ -18,6 +18,12 @@ O **meOwna** é um ambiente de aprendizado intencionalmente vulnerável, criado 
 
 Neste laboratório, você encontrará livros, referências de aprendizagem, termos técnicos, tutoriais e, claro, diversas vulnerabilidades para explorar e aprimorar seus conhecimentos.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-belo-horizonte/master/assets/images/owna1.png" alt="Interface de aprendizado do meOwna" width="700"/>
+  <br>
+  <em>Interface intuitiva do meOwna projetada para aprendizado prático de segurança</em>
+</p>
+
 ## 🔓 Vulnerabilidades Disponíveis
 
 O ambiente foi projetado para explorar uma vasta gama de falhas de segurança comuns em aplicações web. Algumas das vulnerabilidades que você encontrará são:

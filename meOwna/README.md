@@ -18,6 +18,12 @@
 
 In this lab, you will find books, learning references, technical terms, tutorials, and, of course, several vulnerabilities to explore and improve your knowledge.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/OWASP/www-chapter-belo-horizonte/master/assets/images/owna1.png" alt="meOwna Learning Interface" width="700"/>
+  <br>
+  <em>meOwna's intuitive interface designed for hands-on security learning</em>
+</p>
+
 ## 🔓 Available Vulnerabilities
 
 The environment is designed to explore a wide range of common web application security flaws. Some of the vulnerabilities you will find include:

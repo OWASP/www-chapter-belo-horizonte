@@ -1,0 +1,32 @@
+community:
+  - name: chapter-belohorizonte
+    platform: slack
+    url: https://owasp.slack.com/archives/C079FMXK7
+leaders:
+  - name: Julio Sacramento
+    email: julio.sacramento@owasp.org
+  - name: Lucas Gontijo
+    email: lucas.gontijo@owasp.org
+  - name: Matheus Banhos
+    email: matheus.banhos@owasp.org
+    github: matheusbanhos
+  - name: Sandro Garcia
+    email: sandro.garcia@owasp.org
+location:
+  country: Brazil
+  country_code: BR
+  region: Minas Gerais
+  city: Belo Horizonte
+  latitude: -19.9227318
+  longitude: -43.9450948
+meetup_group: owasp-belo-horizonte-chapter
+name: OWASP Belo Horizonte
+repositories:
+  - name: www-chapter-belo-horizonte
+    url: https://github.com/OWASP/www-chapter-belo-horizonte
+    description: OWASP Foundation Web Repository
+tags:
+  - chapter-bh
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-belo-horizonte

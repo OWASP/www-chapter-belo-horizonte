@@ -6,7 +6,7 @@ Bem-vindo ao repositório oficial do capítulo OWASP de Belo Horizonte!
 
 ## Sobre
 
-O capítulo OWASP de Belo Horizonte é uma comunidade local dedicada a melhorar a segurança do software na região. Fazemos parte da [OWASP (Open Web Application Security Project)](https://owasp.org/), uma fundação sem fins lucrativos que trabalha para melhorar a segurança do software.
+O capítulo OWASP de Belo Horizonte é uma comunidade local dedicada a melhorar a segurança do software na região. Fazemos parte da [OWASP (Open Worldwide Application Security Project)](https://owasp.org/), uma fundação sem fins lucrativos que trabalha para melhorar a segurança do software.
 
 ## Missão
 

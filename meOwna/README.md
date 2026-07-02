@@ -24,6 +24,22 @@ In this lab, you will find books, learning references, technical terms, tutorial
   <em>meOwna's intuitive interface designed for hands-on security learning</em>
 </p>
 
+## 🆕 What's New in Version 2
+
+Version 2 brings a cleaner codebase, several bug fixes, a native automated installer, better adaptation for Linux environments, and new functional improvements such as an item listing on the main page and a books section on the user page.
+
+**New vulnerabilities added in v2:**
+
+* XXE (XML External Entity)
+* SQL Injection
+* Timing Attack
+* 2FA (OTP) flaw
+* Route discovery simulation in SPA (Single Page Application)
+* File upload bypass
+* Updated Broken Link Hijacking
+
+A free, complete course teaching how to use the lab is also available on [YouTube](https://www.youtube.com/playlist?list=PLAACtr-bKsUs).
+
 ## 🔓 Available Vulnerabilities
 
 The environment is designed to explore a wide range of common web application security flaws. Some of the vulnerabilities you will find include:
@@ -44,15 +60,42 @@ The environment is designed to explore a wide range of common web application se
 * Clickjacking
 * HTML Injection
 * Information Disclosure
+* XXE, SQL Injection, Timing Attack, 2FA (OTP) flaw *(new in v2)*
 * And many more!
 
 ## 🚀 Getting Started
 
-To start exploring **meOwna**, follow one of the installation methods below.
+To start exploring **meOwna**, follow the installation method below.
 
 > ⚠️ **IMPORTANT WARNING:** This application is **intentionally vulnerable**. Never expose it to the internet or run it in a production environment. Use it only in a controlled and isolated environment, such as a virtual machine (VM) configured in "Host-Only" or "NAT" mode.
 
-### Method 1: Using Apache2 (Recommended)
+### ✅ Installation — Version 2 (Recommended)
+
+The installation process was simplified in version 2. The system automatically detects that it needs to be set up and redirects you to the installer — you just need to follow the on-screen steps.
+
+**Recommended Operating System:** Kali Linux (also works on Parrot OS and BlackArch)
+
+```bash
+sudo su
+wget https://raw.githubusercontent.com/OWASP/www-chapter-belo-horizonte/master/meOwna/meowna_v2.zip
+unzip meowna_v2.zip
+cd meowna2
+php -S localhost:80
+```
+
+Then access: **`http://localhost/instalador.php`**
+
+*(On some setups the app will detect the missing installation automatically when you open `http://localhost`, and redirect you to the installer on its own.)*
+
+The installer will configure everything automatically — just follow the steps shown on screen.
+
+---
+
+### 🕰️ Installation — Previous Version (Legacy)
+
+The methods below refer to the **older version** of meOwna. They are kept here for compatibility, but new users are encouraged to use the **Version 2** installation above.
+
+#### Method 1: Using Apache2
 
 This method simulates a more realistic web server environment.
 
@@ -92,7 +135,7 @@ This method simulates a more realistic web server environment.
 
 ---
 
-### Method 2: Using PHP's Built-in Server
+#### Method 2: Using PHP's Built-in Server
 
 This is a quick method to get the environment running without setting up a full web server.
 

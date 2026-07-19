@@ -183,6 +183,11 @@ This is a quick method to get the environment running without setting up a full 
 * **Instagram:** [@1smaeloliveira](https://www.instagram.com/1smaeloliveira/)
 * **Facebook:** [Isma520liveira](https://www.facebook.com/Isma520liveira/)
 
+#### **Collaborator: Guilherme Berlanga**
+* **LinkedIn:** [linkedin.com/in/guilherme-berlanga-8b8976385](https://www.linkedin.com/in/guilherme-berlanga-8b8976385/)
+* **Instagram:** [@gui.berlanga](https://www.instagram.com/gui.berlanga/)
+
+
 #### **Community: Formming Hackers**
 * **Website:** [formminghackers.com](https://formminghackers.com)
 * **Instagram:** [@formminghackers](https://www.instagram.com/formminghackers/)

@@ -183,6 +183,11 @@ Este é um método rápido para colocar o ambiente em funcionamento sem configur
 * **Instagram:** [@1smaeloliveira](https://www.instagram.com/1smaeloliveira/)
 * **Facebook:** [Isma520liveira](https://www.facebook.com/Isma520liveira/)
 
+#### **Colaborador: Guilherme Berlanga**
+* **LinkedIn:** [linkedin.com/in/guilherme-berlanga-8b8976385](https://www.linkedin.com/in/guilherme-berlanga-8b8976385/)
+* **Instagram:** [@gui.berlanga](https://www.instagram.com/gui.berlanga/)
+
+
 #### **Comunidade: Formming Hackers**
 * **Website:** [formminghackers.com](https://formminghackers.com)
 * **Instagram:** [@formminghackers](https://www.instagram.com/formminghackers/)
